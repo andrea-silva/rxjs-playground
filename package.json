@@ -1,0 +1,29 @@
+{
+  "name": "rxjs-playground",
+  "version": "1.0.0",
+  "description": "rxjs-playground",
+  "main": "app.ts",
+  "scripts": {
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrea-silva/rxjs-playground.git"
+  },
+  "author": "andrea silva",
+  "license": "Apache License Version 2.0",
+  "bugs": {
+    "url": "https://github.com/andrea-silva/rxjs-playground/issues"
+  },
+  "homepage": "https://github.com/andrea-silva/rxjs-playground#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.3.0",
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.7.2",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "rxjs": "^5.5.6"
+  }
+}
